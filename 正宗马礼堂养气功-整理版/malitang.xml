@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.2//EN"
+    "http://www.oasis-open.org/docbook/xml/4.2/docbookx.dtd" [
+
+<!ENTITY chapter1 SYSTEM "1.xml">
+<!ENTITY chapter2 SYSTEM "2.xml">
+<!ENTITY chapter3 SYSTEM "3.xml">
+<!ENTITY chapter4 SYSTEM "4.xml">
+<!ENTITY chapter5 SYSTEM "5.xml">
+<!ENTITY chapter6 SYSTEM "6.xml">
+<!ENTITY appendix_vcd1 SYSTEM "appendix1.xml">
+<!ENTITY appendix_vcd2 SYSTEM "appendix2.xml">
+<!ENTITY appendix_people SYSTEM "appendix_people.xml">
+<!ENTITY appendix_story SYSTEM "appendix_story.xml">
+<!ENTITY appendix_cured_cases SYSTEM "appendix_cured_cases.xml">
+<!ENTITY appendix_discussion SYSTEM "appendix_discussion.xml">
+
+]>
+    	
+<book>
+<title>正宗马礼堂养气功</title>
+<bookinfo>
+
+<author><firstname>马</firstname><surname>礼堂</surname></author>
+<copyright><year>2009</year><holder>马礼堂</holder></copyright>
+
+
+<legalnotice><para>除网上资源外，所有“马礼堂养气功”及相关内容的版权属于马礼堂先生。</para>
+<para>本书供广大朋友学习、交流之用，请不要用于盈利之目的。
+
+</para>
+
+<para>本书由申思维整理，如有建议或意见请联系：shensiwei@sina.com </para>
+<para>您也可以自行打印本书的电子版：6zijue@sina.com  密码 123456 </para>
+<para>六字诀和洗髓金经的视频，
+我已经做了字幕，上传到了
+
+<ulink url="http://u.youku.com/sg552">sg552的优酷视频空间</ulink>
+
+，您也可以到<ulink url="www.youku.com">优酷网</ulink>
+或者其他网站自行搜索，关键字如：“六字诀 字幕”。</para>
+
+</legalnotice>
+</bookinfo>
+<dedication>
+<para>
+献给所有被中西医抛弃，在黑暗中不断摸索，而心中的生命之火却顽强不熄的朋友。
+</para>
+</dedication>
+
+<preface><title>前言</title>
+
+<para>马礼堂是周恩来总理介绍傅作义看病的老中医。</para>
+<para>马礼堂是为彭德怀，徐特立，傅作义，肖劲光（开国十大将之一），黄炎培（政务院副总理），李烛尘（轻工业部部长）,南汉宸（中国人民银行行长），陈叔通（全国人大常委会副委员长），许涤新（全国工商联副主席）等人看病的老中医。
+</para>
+
+<para>马礼堂养气功是国家体育总局审批通过，合法的健身气功。值得一体的是，
+“六字诀”也是国家体育总局所推广的健身气功之一。只是六字诀的国家体育总局版，
+出现于马礼堂六字诀之后，而从疗效、练习人数以及口碑上看，马礼堂六字诀是
+当今六字诀的首选。</para>
+
+<para>本书的缘起：最初仅仅是向大家推荐了本书，仅仅提了名字：“六字诀”。
+结果很多朋友提出了很多问题。由于本书已经绝版，二手的又比较贵，
+于是我向大家推荐了pdf电子版。
+也许是pdf版阅读不便，很多朋友都不看，继续向我提问题。
+于是我整理出了一些文字，发现仍然满足不了大家的胃口。
+于是整理的内容越来越多，2个月下来，就成了本书。</para>
+
+<para>练气功要有所选择。目前口碑，品德，功德良好的，我目前只发现了：
+“马礼堂养气功”以及“大雁功”
+
+<footnote><para>大雁功法的学习途径我不清楚，但是可以肯定的是
+王泰力建立的中国大雁气功总部是骗局。详情见
+《大雁气功二十八代传人陈传刚的严正声明》。该文请百度查看。</para></footnote>
+
+。可以说，“气功”二字被很多
+骗子给糟蹋了，如同庸医和江湖赤脚医生对于“中医”一样。
+
+但如果看到“气功”二字，就把本书扔之一边，那么我会替您感到损失很大。
+可以说，本书非常切实，没有半点玄虚。“气功”实际上就是呼吸导引之术，
+而“洗髓金经”，就是八八呼的广播体操。</para>
+
+<para>本书收录了适用于初学者（以治病，强身为目的，而不是追求特异功能）
+的内容。本着简单易学的原则，没有收录原书的内容如下：
+“太极功，部分站功，部分卧功，行功，大循环的循经按摩”。
+也收录了很多网上的讨论，痊愈病例，学习经验等，希望对大家有所帮助。
+在此特地感谢“蓬蒿人”等各位热心朋友的默默付出！</para>
+
+
+<para>开卷有益，书中自有养生大道。希望大家认真学习，多下功夫，
+人人都有一个健康的体魄，高质量的幸福人生。</para>
+
+<para>申思维 2009.11.13 </para>
+
+</preface>
+&chapter1;
+&chapter2;
+&chapter3;
+&chapter4;
+
+&chapter5;
+&chapter6;
+
+&appendix_cured_cases;
+&appendix_discussion;
+&appendix_vcd1;
+&appendix_vcd2;
+&appendix_story;
+&appendix_people;
+
+<appendix><title>必须具备的健康常识</title>
+<para>申思维</para>
+<para>学习是养生的王道。而在健康上进行学习投资，是最值得的投资。篇幅所限，
+不能一一详述。进一步内容请自行学习，下面是几个
+国家几乎从不宣传，而被普通民众所忽视的健康常识：</para>
+
+<para>1. 医院是一个盈利机构，不是慈善机构。不要完全把自己交给医院。
+自己一定要学习中医（不是西医）养生知识。</para>
+<para>2. 所有的疑难杂症，病根都在内脏，绝不要头痛医头脚痛医脚。</para>
+<para>3. 所有的情志病，病根都在内脏。最常见的是：
+胆子小的惊恐症，口吃，找肾脏；
+精神方面异常的找肝脏；
+遇事想不开的人找脾脏，肝脏。</para>
+<para>4. 大部分的疑似心脏病症状（心悸，怔忡，心慌，心律不齐）都是由肾虚引起，
+所有的疾病，都要重点补肾。
+</para><para>肾虚的原因：熬夜，纵欲，
+流产，吃紧急避孕药，或者吸毒，吃壮阳药，过劳。</para>
+<para>5. 肥胖的人，原因一定是在脾。
+</para><para>脾受伤的原因：吃冷饮，暴饮暴食，狼吞虎咽，生闷气。</para>
+<para>6. 人体的恢复能力超强，但是现代人虐待身体的能力更强。请不要：
+熬夜，纵欲，流产，吃冷饮，暴饮暴食，生大气。</para>
+<para>7. 吃冷饮极损害脾胃，损害心脏。</para>
+<para>8. 锻炼要从内脏开始，而跑步不当极易造成人体的损伤。
+</para><para>锻炼内脏的方法：气功、太极、瑜伽。
+</para>
+<para>9. 请多多学习中医知识。三十个小时的学习时间就可以让你
+具备足以养生、自救的能力。</para>
+
+<para>五脏六腑的功能，以及诊断的重要方法，本书内容见：
+<xref linkend="physiological_function_of_inner_and_outer_organs"/>
+和<xref linkend="yangqigong_healthing_mechanism"/>。
+</para>
+
+<para>基础的养生理论：吃饭7分饱，不生气，不纵欲，早睡自然醒。</para>
+
+<para>基本的经络知识：十二正经，任督二脉，冲脉，太阳穴，下丹田。</para>
+
+<para>书籍：中医高校教材《中医基础理论》，曲黎敏《从头到脚说健康》，《人体使用手册》
+《人体复原工程》，《求医不如求己》，《黄帝内经面诊术》。
+看到某个论坛的中医版面上，很多人都推荐中医入门者读《黄帝内经》。我的观点是：
+《黄帝内经》虽然比较易懂，有高中水平就足够了，但是请首先读《中医基础理论》。
+</para>
+
+</appendix>
+
+</book>
